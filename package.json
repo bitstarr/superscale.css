@@ -1,0 +1,28 @@
+{
+    "title": "superscale.css",
+    "name": "superscale.css",
+    "description": "A CSS snippet to ensure your website gets scaled on large resolution screens above a certain resolution",
+    "version": "1.0.0",
+    "style": "superscale.css",
+    "author": {
+        "name": "Sebastian Laube",
+        "url": "https://sebastianlaube.de",
+        "email": "hello@sebastianlaube.de"
+    },
+    "keywords": [
+        "scaling",
+        "4k",
+        "retina",
+        "high resolution",
+        "css"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/bitstarr/superscale.css",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bitstarr/superscale.css"
+    },
+    "bugs": {
+        "url": "https://github.com/bitstarr/superscale.css/issues"
+    },
+}
